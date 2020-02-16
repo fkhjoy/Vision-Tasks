@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Logo</folder>
+	<filename>img105.PNG</filename>
+	<path>E:\Tasks\Logo\img105.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>462</width>
+		<height>319</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>walton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>10</ymin>
+			<xmax>109</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

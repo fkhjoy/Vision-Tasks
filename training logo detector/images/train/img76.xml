@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Logo</folder>
+	<filename>img76.PNG</filename>
+	<path>E:\Tasks\Logo\img76.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>478</width>
+		<height>407</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>samsung</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>41</ymin>
+			<xmax>321</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>

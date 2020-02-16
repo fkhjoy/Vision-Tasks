@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Logo</folder>
+	<filename>img46.PNG</filename>
+	<path>E:\Tasks\Logo\img46.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>408</width>
+		<height>306</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dbbl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>9</ymin>
+			<xmax>109</xmax>
+			<ymax>28</ymax>
+		</bndbox>
+	</object>
+</annotation>

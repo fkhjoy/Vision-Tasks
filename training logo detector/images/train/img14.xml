@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Logo</folder>
+	<filename>img14.PNG</filename>
+	<path>E:\Tasks\Logo\img14.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>309</width>
+		<height>146</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bkash</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>13</ymin>
+			<xmax>62</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>
